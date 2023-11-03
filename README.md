@@ -1,4 +1,4 @@
-# super-disco
+# Super Disco
 
 ![SuperDisco](https://mir-s3-cdn-cf.behance.net/project_modules/hd/d0a63d11519855.560f8fe29a4bd.jpg)
 
