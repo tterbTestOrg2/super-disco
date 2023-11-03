@@ -46,7 +46,4 @@ You can customize Super Disco to fit your style and preferences. Modify the conf
 ## Contributing
 We welcome contributions from the open-source community. If you have ideas, bug fixes, or new features to add to Super Disco, please see our Contribution Guidelines for more information.
 
-## Contact
-If you have any questions, suggestions, or just want to chat about disco and coding, feel free to reach out to us at super-disco@example.com.
-
 Let's make coding a disco party! 🕺💃🌟
