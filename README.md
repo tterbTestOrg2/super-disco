@@ -5,10 +5,10 @@
 Super Disco is a super cool and funky open-source project that brings the disco vibes to your code. It's designed to make your development experience as groovy as a Saturday night dance party. Whether you're a seasoned developer or just getting started, Super Disco is here to add some fun to your coding journey.
 
 ## Features
-Real-time disco lights in your terminal while you code.
-Play your favorite disco tunes from the command line.
-Dance-themed code templates to get you in the groove.
-Easy integration with your existing projects.
+  * Real-time disco lights in your terminal while you code.
+  * Play your favorite disco tunes from the command line.
+  * Dance-themed code templates to get you in the groove.
+  * Easy integration with your existing projects.
 
 ## Installation
 Super Disco is easy to install using your favorite package manager. Here's how you can do it with `npm`:
