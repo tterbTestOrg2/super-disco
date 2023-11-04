@@ -41,9 +41,9 @@ super-disco play "Stayin' Alive"
 ```
 
 ## Configuration
-You can customize Super Disco to fit your style and preferences. Modify the configuration by editing the `super-disco-config.json` file. For more information on configuration options, check out our Configuration Guide.
+You can customize Super Disco to fit your style and preferences. Modify the configuration by editing the `super-disco-config.json` file. For more information on configuration options, check out our [Configuration Guide]().
 
 ## Contributing
-We welcome contributions from the open-source community. If you have ideas, bug fixes, or new features to add to Super Disco, please see our Contribution Guidelines for more information.
+We welcome contributions from the open-source community. If you have ideas, bug fixes, or new features to add to Super Disco, please see our [Contribution Guidelines]() for more information.
 
 Let's make coding a disco party! 🕺💃🌟
